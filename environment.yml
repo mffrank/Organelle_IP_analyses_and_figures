@@ -36,7 +36,6 @@ dependencies:
       - colorcet==3.0.1
       - dash==2.13.0
       - dash-bio==1.0.2
-      - datashader==0.14.4
       - decorator==5.1.1
       - fastcluster==1.2.6
       - datashader==0.14.4
